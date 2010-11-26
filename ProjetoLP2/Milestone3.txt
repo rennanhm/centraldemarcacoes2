@@ -1,0 +1,28 @@
+ -----------------------------------
+|Central de Marcações da Clínica    |
+|de Ortopedia Cirúrgica da Paraíba  |
+ -----------------------------------
+
+1º Milestone
+O projeto contempla a realização de cadastro de plano de saúde, que tem como características cadastrar um plano de saúde de acordo com seu nome, preço e telefone para contato com as atendentes do plano. De forma que, mesmo que não haja nenhum plano cadastrado, o plano particular já está incluso, e nele pode ser feito mudanças de preços de acordos com as consultas para cada especialidade.
+Já cadastrar pacientes consiste em receber seu nome, CPF, endereço, telefones residencial, comercial e celular, data de nascimento, plano de saúde que já foi cadastrado, e-mail e a data da ultima visita do paciente a clinica. Além disso, cada paciente apresenta um número de identificação único, gerado randomicamente e que permite o acompanhamento do paciente pelo mesmo. Também há a opção de excluir um paciente do sistema, fazendo com que suas consultas e cirurgias também sejam desmarcadas.
+É possível também cadastrar no sistema o horário de atendimento dos médicos, ou seja, os dias e horários em que cada médico estará na clinica para realizar consultas e também os dias e horários para cirurgias. Cada médico pode indicar que horas o seu expediente começa e que horas termina, sendo possível assim obter um maior controle sobre quando o médico estará disponível para atender outros pacientes. É possível agendar também três tipos de atendimentos pré-agendados, são eles: primeira consulta, consulta de retorno e cirurgia.
+Sendo assim, nessa iteração, foram contemplados os user cases 1, 2, 3 e 8, sendo eles cadastro de plano de saúde, cadastro de pacientes, cadastro de horários de atendimento dos médicos e exclusão de pacientes, respectivamente.
+
+2º Milestone
+O projeta contempla a capacidade de marcar consulta retorno ou cirurgia, no primeiro dia vago, para pacientes cadastrados no sistema para uma dada especialidade ou para um medico especifico,
+Implementado uma lista de espera alguns pacientes que gostariao de uma data especifica e está cheio, pederao esperar a vaga na listaDeEspera.
+É possivel o Cancelamentos de conssultas e cirurgias especificas
+
+3º Milestone
+O sistema apresenta as estatísticas de medicos especifico e de especialidades, mostrando quantas consultas foram marcadas, 
+em um determinado mês. Todos os dados inseridos no sistema persistem em arquivos. Todas as operações são realizadas
+através de uma interface gráfica amigável.
+
+   ---- Correçoes -----
+
+- O sistema então sugere uma data da marcação e a secretária pode ou não aceitar a sugestão do sistema.
+- Relacionamento entre as classes melhorado.
+- Melhoria nos testes.
+- O sistema deve marcar a cirurgia que chegar primeiro
+
