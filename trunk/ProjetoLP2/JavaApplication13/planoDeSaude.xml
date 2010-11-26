@@ -1,0 +1,48 @@
+<list>
+  <PlanoDeSaude.PlanoDeSaude>
+    <STRING__VAZIA></STRING__VAZIA>
+    <nomeDoPlano>Particular</nomeDoPlano>
+  </PlanoDeSaude.PlanoDeSaude>
+  <PlanoDeSaude.PlanoDeSaude>
+    <STRING__VAZIA></STRING__VAZIA>
+    <precoDoPlano>2.0</precoDoPlano>
+    <nomeDoPlano>novo plano</nomeDoPlano>
+    <telefoneDoPlano>(22)1234-1234</telefoneDoPlano>
+  </PlanoDeSaude.PlanoDeSaude>
+  <PlanoDeSaude.PlanoDeSaude>
+    <STRING__VAZIA></STRING__VAZIA>
+    <precoDoPlano>100.0</precoDoPlano>
+    <nomeDoPlano>nomeDeUmPlano</nomeDoPlano>
+    <telefoneDoPlano>(12)1234-1111</telefoneDoPlano>
+  </PlanoDeSaude.PlanoDeSaude>
+  <PlanoDeSaude.PlanoDeSaude>
+    <STRING__VAZIA></STRING__VAZIA>
+    <precoDoPlano>10.0</precoDoPlano>
+    <nomeDoPlano>dasdasdsad</nomeDoPlano>
+    <telefoneDoPlano>(12)3132-1323</telefoneDoPlano>
+  </PlanoDeSaude.PlanoDeSaude>
+  <PlanoDeSaude.PlanoDeSaude>
+    <STRING__VAZIA></STRING__VAZIA>
+    <precoDoPlano>10.0</precoDoPlano>
+    <nomeDoPlano>mais um teste</nomeDoPlano>
+    <telefoneDoPlano>(12)3132-1323</telefoneDoPlano>
+  </PlanoDeSaude.PlanoDeSaude>
+  <PlanoDeSaude.PlanoDeSaude>
+    <STRING__VAZIA></STRING__VAZIA>
+    <precoDoPlano>10.0</precoDoPlano>
+    <nomeDoPlano>mais um</nomeDoPlano>
+    <telefoneDoPlano>(12)3131-2321</telefoneDoPlano>
+  </PlanoDeSaude.PlanoDeSaude>
+  <PlanoDeSaude.PlanoDeSaude>
+    <STRING__VAZIA></STRING__VAZIA>
+    <precoDoPlano>10.0</precoDoPlano>
+    <nomeDoPlano>mais mil</nomeDoPlano>
+    <telefoneDoPlano>(12)3321-3213</telefoneDoPlano>
+  </PlanoDeSaude.PlanoDeSaude>
+  <PlanoDeSaude.PlanoDeSaude>
+    <STRING__VAZIA></STRING__VAZIA>
+    <precoDoPlano>103.0</precoDoPlano>
+    <nomeDoPlano>mais dois mil</nomeDoPlano>
+    <telefoneDoPlano>(12)3213-2131</telefoneDoPlano>
+  </PlanoDeSaude.PlanoDeSaude>
+</list>
